@@ -2,7 +2,7 @@
     "name": "mosaab/core",
     "require": {},
     "autoload": {
-        "ps-4": {
+        "psr-4": {
             "Mosaab\\MVC\\" : "."
         }
     }
