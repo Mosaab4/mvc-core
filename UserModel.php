@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Core;
+namespace Mosaab\MVC;
 
-use App\Core\DB\DbModel;
+use Mosaab\MVC\DB\DbModel;
 
 abstract class UserModel extends DbModel
 {

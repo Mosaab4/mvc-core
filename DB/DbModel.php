@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Core\DB;
+namespace Mosaab\MVC\DB;
 
-use App\Core\Application;
-use App\Core\Model;
+use Mosaab\MVC\Application;
+use Mosaab\MVC\Model;
 
 abstract class DbModel extends Model
 {

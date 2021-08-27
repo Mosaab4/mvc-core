@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Core\Middlewares;
+namespace Mosaab\MVC\Middlewares;
 
 abstract class BaseMiddleware
 {

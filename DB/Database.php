@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Core\DB;
+namespace Mosaab\MVC\DB;
 
-use App\Core\Application;
+use Mosaab\MVC\Application;
 use PDO;
 
 class Database

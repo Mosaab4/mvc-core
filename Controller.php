@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Core;
+namespace Mosaab\MVC;
 
-use App\Core\Middlewares\BaseMiddleware;
+use Mosaab\MVC\Middlewares\BaseMiddleware;
 
 class Controller
 {

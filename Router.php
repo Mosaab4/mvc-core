@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Core;
+namespace Mosaab\MVC;
 
-use App\Core\Exceptions\NotFoundException;
+use Mosaab\MVC\Exceptions\NotFoundException;
 
 class Router
 {

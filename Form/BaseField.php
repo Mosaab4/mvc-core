@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Core\Form;
+namespace Mosaab\MVC\Form;
 
-use App\Core\Model;
+use Mosaab\MVC\Model;
 
 abstract class BaseField
 {

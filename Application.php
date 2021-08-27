@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Core;
+namespace Mosaab\MVC;
 
-use App\Core\DB\Database;
+use Mosaab\MVC\DB\Database;
 use Exception;
 
 class Application

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Core\Exceptions;
+namespace Mosaab\MVC\Exceptions;
 
 class ForbiddenException extends \Exception
 {
